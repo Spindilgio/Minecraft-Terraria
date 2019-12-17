@@ -1,11 +1,10 @@
-modLoader="javafml" #mandatory
-loaderVersion="[28,)" #mandatory
-authors="Jack Gagnon" #optional
-
-[[mods]] #mandatory
-modId="aamod" #mandatory
-version="0.0.1" #mandatory
-displayName="Action-Adventure Mod" #mandatory
-description='''
-An Action Adventure Mod based on Terraria.
+modLoader="javafml"
+loaderVersion="[28,)"
+[[mods]]
+	modId="aamod"
+	version="0.0.1"
+	displayName="Action-Adventure Mod"
+	authors="Jack Gagnon, William Steele"
+	description='''
+An Action-Adventure Mod Inspired by Terraria!
 '''
